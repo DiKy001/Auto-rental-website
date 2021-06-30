@@ -1,0 +1,48 @@
+.contactsH1{
+    text-transform: uppercase;
+    font-size: 150%;
+    text-align: center;
+    margin: 2%;
+}
+
+.panelB{
+    margin-left: 5%;
+}
+
+.panelB ul li{
+	list-style: none;
+    font-size: 110%;
+    padding-bottom: 5px;
+    font-weight: 300;
+}
+
+.panelB ul li i{
+    font-size: 180%;
+    margin-right: 20px;
+    color: inherit;
+    transition: all 1s;
+}
+
+.ion-social-twitter:hover{
+    color: #55acee;
+}
+
+.ion-social-instagram:hover{
+    color: #e95950;
+}
+
+.ion-social-facebook:hover{
+    color: #3b5998;
+}
+
+.ion-social-youtube:hover{
+    color: #bb0000;
+}
+
+iframe {
+	padding-left: 7%;
+    padding-right: 7%;
+    width: 100%; 
+    height: 450px;
+    border:0;
+}

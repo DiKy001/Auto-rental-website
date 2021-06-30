@@ -1,0 +1,92 @@
+.vehicleType {
+  	border-radius: 5px;
+	margin-left: 5%;
+	margin-right: 5%;
+	align-self: center;
+}
+
+.smallVehicle {
+	border: 2px solid #43bac7;
+	background-color: #AFDBE0;
+}
+
+.mediumVehicle {
+	border: 2px solid #24da94;
+	background-color: #91e2c3;
+}
+
+.largeVehicle {
+	border: 2px solid #dab12a;
+	background-color: #e2cf91;
+}
+
+.navbar {
+    background-color: rgb(44, 119, 189);
+    font-size: 19px;
+}
+
+.logo {
+    font-size: 150%;
+    color: #fff;
+    float: left;
+}
+
+.types {
+	float: left;
+	width: 90%;
+}
+
+.types li {
+	display: inline-block;
+    margin-left: 20px;
+}
+
+.types li a {
+	color: rgb(40, 98, 206);
+}
+
+.types li a:hover {
+	color: #b32020;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+}
+
+hr {
+	background-color: #525252;
+	height: 5px; 
+	border: 0;
+}
+
+h4 {
+	text-align: center;
+	padding-top: 2%;
+}
+
+h2 {
+	padding-top: 5%;
+	margin-left: 5%;
+	font-size: 24px;
+}
+
+
+
+.image {
+	float: left;
+}
+
+.image img {
+	width: 82.5%;
+}
+
+.panelA ul{
+    padding-bottom: 2%;
+}
+
+.panelA ul li{
+    font-size: 110%;
+    padding-bottom: 5px;
+    font-weight: 300;
+}

@@ -1,0 +1,14 @@
+html,
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555;
+}
+
+.row {
+    padding-top: 30px;
+    padding-left: 7%;
+	padding-right: 7%;
+    width: 100%;
+}

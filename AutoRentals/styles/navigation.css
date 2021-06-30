@@ -1,0 +1,20 @@
+.logo {
+    font-size: 175%;
+    color: #fff;
+    float: left;
+}
+
+.logo img {
+    margin-bottom: 5px;
+    margin-right: 5px;
+    height: 45px;
+}
+
+.navbar {
+    background-color: rgba(77, 142, 202, 0.95);
+    font-size: 24px;
+}
+
+.indent {
+    height: 100px;
+}

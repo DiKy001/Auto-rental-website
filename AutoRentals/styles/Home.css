@@ -1,0 +1,140 @@
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+header {
+    background-image: linear-gradient(rgba( 0, 0, 0, 0.3), rgba( 0, 0, 0, 0.3)), url(../img/mtCook.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-top: -20px;
+}
+
+.heroText {
+    width: 85%;;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.heroText h1 {
+    font-size: 250%;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.icons {
+    height: 45px;
+    margin-right: 3%;
+    margin-bottom: 5px;
+}
+
+.btnRes {
+    border: 3px solid #f1c40f;
+    border-radius: 10px;
+    transition: background-color 0.5s;
+}
+
+.btnRes:hover {
+    background-color: #f1c40f;
+}
+
+.btn {
+    letter-spacing: 0.5px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 120%;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.intro h2 {
+    font-size: 150%;
+    text-align: center
+}
+
+.iconTitle {
+    margin-right: 10px;
+    font-size: 150%;
+    color: #f39c12;
+}
+
+.intro p {
+    font-size: 120%;
+    line-height: 140%;
+    margin-top: 20px;
+    text-align: justify;
+    font-weight: 300;
+}
+
+.vehicleTypeTitle{
+    font-size: 200%;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.carIcon{
+    margin-left: 10%;
+    width: 100px;
+    height: auto;
+}
+
+.vehicle{
+    margin-left: 0; 
+    text-align: center;
+}
+
+.vehicle h2{
+    margin-left: 10%;
+    font-size: 150%;
+}
+
+.vehicle ul li{
+    list-style: none;
+    margin: 10px 0;
+    font-weight: 300;
+    font-size: 120%;
+}
+
+.carousel {
+    height: 80vh;
+    background-image: linear-gradient(rgba( 0, 0, 0, 0.3), rgba( 0, 0, 0, 0.3 )), url(../img/dividerImage.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.carousel-inner {
+    width: 70%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.carousel-inner p{
+    font-weight: 700;
+    text-align: center;
+    font-size: 150%;
+    color: #2664d6;
+    line-height: 150%;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.527);
+    border-radius: 15px;
+}
+
+.rateTable {
+    text-align: center;
+}
+
+.rateTable thead tr th {
+    width: 33%;
+}
